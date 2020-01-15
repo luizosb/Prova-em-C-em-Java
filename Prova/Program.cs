@@ -44,16 +44,23 @@ namespace Prova
             }
             Console.WriteLine("A pessoa mais velha é " + nomeM);
 
-            //List<Pessoa> ordenada = pessoas.OrderBy(Pessoa => Pessoa.Idade).ToList();
+            /* Como deixar a lista em ordem
+            List<Pessoa> ordenada = pessoas.OrderBy(Pessoa => Pessoa.Idade).ToList();
 
             //foreach (Pessoa ind in ordenada)
             //{
             //   Console.WriteLine(ind.Nome + ", " + ind.Idade);
-                
+
             //}
 
-            // Fazendo a remoção de elementos da lista
-            foreach (Pessoa ind in pessoas.ToArray())
+            */ 
+            //Jeitos de fazer a remoção de elementos da lista
+
+
+            pessoas.RemoveAll(x => x.Idade < 18);
+            
+            
+            /* foreach (Pessoa ind in pessoas.ToArray())
             {
                 if (ind.Idade >= 18)
                 {
@@ -64,9 +71,6 @@ namespace Prova
                 
             }
 
-        
-
-            /*
             for (int i =0; i < pessoas.Count(); i++)
             {
                 if(pt.Idade < 18)
@@ -85,6 +89,14 @@ namespace Prova
             {
               Console.WriteLine(ind.Nome + ", " + ind.Idade);
 
+            }
+
+            foreach(Pessoa ind in pessoas)
+            {
+                if (ind.Nome == "Jessica")
+                {
+                    Console.WriteLine("A Jessica existe.");
+                }
             }
         
 
