@@ -1,0 +1,11 @@
+C:\Users\LOSB\source\repos\Prova\bin\Debug\netcoreapp3.1\Prova.exe
+C:\Users\LOSB\source\repos\Prova\bin\Debug\netcoreapp3.1\Prova.deps.json
+C:\Users\LOSB\source\repos\Prova\bin\Debug\netcoreapp3.1\Prova.runtimeconfig.json
+C:\Users\LOSB\source\repos\Prova\bin\Debug\netcoreapp3.1\Prova.runtimeconfig.dev.json
+C:\Users\LOSB\source\repos\Prova\bin\Debug\netcoreapp3.1\Prova.dll
+C:\Users\LOSB\source\repos\Prova\bin\Debug\netcoreapp3.1\Prova.pdb
+C:\Users\LOSB\source\repos\Prova\obj\Debug\netcoreapp3.1\Prova.csprojAssemblyReference.cache
+C:\Users\LOSB\source\repos\Prova\obj\Debug\netcoreapp3.1\Prova.AssemblyInfoInputs.cache
+C:\Users\LOSB\source\repos\Prova\obj\Debug\netcoreapp3.1\Prova.AssemblyInfo.cs
+C:\Users\LOSB\source\repos\Prova\obj\Debug\netcoreapp3.1\Prova.dll
+C:\Users\LOSB\source\repos\Prova\obj\Debug\netcoreapp3.1\Prova.pdb
